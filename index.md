@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Covid UML](https://github.com/devancraig/covid.github.io/blob/gh-pages/img/uml.PNG)
+![Covid UML](img/uml.PNG)
 
 You can use the [editor on GitHub](https://github.com/devancraig/covid.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
