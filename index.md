@@ -20,7 +20,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. <a href="test.md">Page 2</a>
+1. test
 2. List
 
 **Bold** and _Italic_ and `Code` text
