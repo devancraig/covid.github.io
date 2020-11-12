@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Covid-19 Tracker
 
 ![Covid UML](img/uml.PNG)
 
