@@ -1,9 +1,9 @@
 ## Covid-19 Tracker
-<div align="center">
-   <img src="img/uml.PNG" alt="Covid UML">
-   <br>
-   <h4 align="center">UML Diagram</h4>
-</div>
+<img src="img/uml.PNG" alt="Covid UML">
+<br>
+<br>
+<h4 align="center">UML Diagram</h4>
+
 
 
 ### Data Retrieval (Chris)
