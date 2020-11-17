@@ -1,6 +1,7 @@
 ## Covid-19 Tracker
 <div align="center">
-   <img src="img/uml.PNG" alt="Covid UML" align="center">
+   <img src="img/uml.PNG" alt="Covid UML">
+   <br>
    <h4 align="center">UML Diagram</h4>
 </div>
 
@@ -8,6 +9,7 @@
 ### Data Retrieval (Chris)
 
 ### Database (Devan)
+<p> </p>
 
 ### PowerBI (Brandon)
 
