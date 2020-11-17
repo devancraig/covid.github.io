@@ -2,11 +2,22 @@
 
 ![Covid UML](img/uml.PNG)
 
-You can use the [editor on GitHub](https://github.com/devancraig/covid.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Data Extraction (Chris)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Parsing (Chris)
 
-### Markdown
+### Database (Devan)
+
+### PowerBI (Brandon)
+
+### Heroku (Devan)
+
+### Key Terms
+1. **DB** - Database
+2. **CSV** - Comma-seperated values
+3. **NodeJS** - Backend javascript language
+4. **PowerBI** - Business analytics service
+5. **Heroku** - Cloud platform hosting service
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
