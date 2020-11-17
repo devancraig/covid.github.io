@@ -13,6 +13,7 @@
 ### PowerBI (Brandon)
 
 ### Heroku (All)
+[Link to Covid-19 Tracker Page](https://powerful-temple-05417.herokuapp.com/)
 
 ### Key Terms
 1. **DB** - Database
