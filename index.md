@@ -1,16 +1,17 @@
 ## Covid-19 Tracker
 
 ![Covid UML](img/uml.PNG)
+<h4 align="center">
+   UML Diagram
+</h4>
 
-### Data Extraction (Chris)
-
-### Data Parsing (Chris)
+### Data Retrieval (Chris)
 
 ### Database (Devan)
 
 ### PowerBI (Brandon)
 
-### Heroku (Devan)
+### Heroku (All)
 
 ### Key Terms
 1. **DB** - Database
