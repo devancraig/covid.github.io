@@ -7,6 +7,12 @@
 
 ### Data Retrieval (Chris)
 
+Our data source for this project is the CSSEGIS data repository located here:
+https://github.com/CSSEGISandData/COVID-19
+
+Our node.js server fetches the new data daily, parses it, and inserts it into our database.
+
+
 ### Database (Devan)
 <p> </p>
 
