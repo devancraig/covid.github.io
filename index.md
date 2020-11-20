@@ -41,6 +41,8 @@ Once the database is set and populated, we are able to utilize Microsoft's Power
 The Visuals available in PowerBI,(I.E. Bar Graphs, Tables, Gantt charts), serve as templates with fields that stand as the holding place for the database columns to be pulled over. Once the columns are placed to the templates columns into the visual templates, the software then builds the visuals using the provided data located in the columns. Further Modifications and customizations can be made by altering the queries that refresh the data as it comes in. THis is done through the inherent PowerQuery Editor that is shared between multiple Microsoft products (Excel). PowerBI is a one-stop-shop for data visualization and manipulation. 
 </p>
 <h4 align = "center">PowerBI - Published Reports</h4>
+<img src="img/Screen Shot 2020-11-19 at 6.20.37 PM.png" alt="Covid US" style="width: 100%;">
+Screen Shot 2020-11-19 at 6.20.37 PM.png
 <p></p>
 <h4 align = "center">PowerBI - Data Refresh</h4>
 <p></p>
