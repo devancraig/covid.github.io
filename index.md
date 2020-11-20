@@ -12,6 +12,9 @@ https://github.com/CSSEGISandData/COVID-19
 
 Our node.js server fetches the new data daily, parses it, and inserts it into our database.
 
+<h4 align="center">This scheduler runs our daily update</h4>
+<img src="img/herokuscheduler.PNG" alt="Covid World" style="width: 100%;">
+
 
 ### Database (Devan)
 <p> 
