@@ -29,7 +29,17 @@ For this project we are using a clear-db mysql query language. This database is 
 <img src="img/us.PNG" alt="Covid US" style="width: 100%;">
 
 ### PowerBI (Brandon)
+<h4 align = "center">PowerBI Intro - Data Connection and Overview</h4>
+<p>
+Once the database is set and populated, we are able to utilize Microsoft's PowerBI Software (PowerBI) to create the visuals for our site. PowerBI is a data visualization software that builds visuals from various data sources I.E. Excel and SQL. 
 
+The Visuals available in PowerBI,(I.E. Bar Graphs, Tables, Gantt charts), serve as templates with fields that stand as the holding place for the database columns to be pulled over. Once the columns are placed to the templates columns into the visual templates, the software then builds the visuals using the provided data located in the columns. Further Modifications and customizations can be made by altering the queries that refresh the data as it comes in. THis is done through the inherent PowerQuery Editor that is shared between multiple Microsoft products (Excel). PowerBI is a one-stop-shop for data visualization and manipulation. 
+</p>
+<h4 align = "center">PowerBI - Published Reports</h4>
+<p></p>
+<h4 align = "center">PowerBI - Data Refresh</h4>
+<p></p>
+<h4 align = "center></h4>
 ### Heroku (All)
 [Link to Covid-19 Tracker Page](https://powerful-temple-05417.herokuapp.com/)
 
