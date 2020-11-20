@@ -42,7 +42,7 @@ The Visuals available in PowerBI,(I.E. Bar Graphs, Tables, Gantt charts), serve 
 </p>
 <h4 align = "center">PowerBI - Published Reports</h4>
 <img src="img/Screen Shot 2020-11-19 at 6.20.37 PM.png" alt="Covid US" style="width: 100%;">
-Screen Shot 2020-11-19 at 6.20.37 PM.png
+
 <p></p>
 <h4 align = "center">PowerBI - Data Refresh</h4>
 <p></p>
