@@ -42,7 +42,7 @@ The Visuals available in PowerBI,(I.E. Bar Graphs, Tables, Gantt charts), serve 
 <p></p>
 <h4 align = "center">PowerBI - Data Refresh</h4>
 <p></p>
-<h4 align = "center></h4>
+
 ### Heroku (All)
 [Link to Covid-19 Tracker Page](https://powerful-temple-05417.herokuapp.com/)
 
