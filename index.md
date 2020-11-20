@@ -22,8 +22,10 @@ For this project we are using a clear-db mysql query language. This database is 
  Below is example screenshots of what our data looks like in the two tables:
 </p>
 
-<img src="img/" alt="Covid World" style="width: 100%;">
-<img src="img/" alt="Covid US" style="width: 100%;">
+<img src="img/us.PNG" alt="Covid World" style="width: 100%;">
+<h4 align="center">World Covid Data</h4>
+<img src="img/world.PNG" alt="Covid US" style="width: 100%;">
+<h4 align="center">US Covid Data</h4>
 
 ### PowerBI (Brandon)
 
