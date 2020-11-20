@@ -8,9 +8,11 @@
 ### Data Retrieval (Chris)
 
 Our data source for this project is the CSSEGIS data repository located here:
-https://github.com/CSSEGISandData/COVID-19
+<a href="https://github.com/CSSEGISandData/COVID-19">https://github.com/CSSEGISandData/COVID-19</a>
+ 
+Our node.js server fetches the new data daily, parses it, and inserts it into our database as a job run with heroku scheduler.
 
-Our node.js server fetches the new data daily, parses it, and inserts it into our database.
+Additionally, the web app is served through a nodejs server on our heroku dynamo.
 
 <h4 align="center">This scheduler runs our daily update</h4>
 <img src="img/herokuscheduler.PNG" alt="Covid World" style="width: 100%;">
