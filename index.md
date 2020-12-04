@@ -53,17 +53,17 @@ Heroku is cloud platform service allowing you to host multiple different program
 
 Allowing us to host our website server using node.js and display our information in html/css.
 
-#### Website Tutorial
-<div class="row">
-  <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-    <img src="img/herokuworld.PNG" alt="hworld" style="width:100%">
-  </div>
-  <div class="column" style="float: left; width: 33.33%; padding: 5px;">
-    <img src="img/usheroku.PNG" alt="hus" style="width:100%">
-  </div>
-</div>
+#### Website Features
+##### World Covid Cases
+<img src="img/herokuworld.PNG" alt="hworld" style="width:100%">
 
-[Link to Covid-19 Tracker Page](https://powerful-temple-05417.herokuapp.com/)
+##### Navigation Bar (Scroll to use)
+<img src="img/herokunav.PNG" alt="hnav" style="width:100%">
+
+##### US Covid Cases
+<img src="img/usheroku.PNG" alt="hworld" style="width:100%">
+
+#### [Link to Covid-19 Tracker Page](https://powerful-temple-05417.herokuapp.com/)
 
 ### Key Terms
 1. **DB** - Database
