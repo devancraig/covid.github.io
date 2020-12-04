@@ -47,7 +47,22 @@ The Visuals available in PowerBI,(I.E. Bar Graphs, Tables, Gantt charts), serve 
 <h4 align = "center">PowerBI - Data Refresh</h4>
 <p></p>
 
-### Heroku (All)
+### Heroku 
+#### What is Heroku?
+Heroku is cloud platform service allowing you to host multiple different programming languages.
+
+Allowing us to host our website server using node.js and display our information in html/css.
+
+#### Website Tutorial
+<div class="row">
+  <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+    <img src="img/herokuworld.PNG" alt="hworld" style="width:100%">
+  </div>
+  <div class="column" style="float: left; width: 33.33%; padding: 5px;">
+    <img src="img/usheroku.PNG" alt="hus" style="width:100%">
+  </div>
+</div>
+
 [Link to Covid-19 Tracker Page](https://powerful-temple-05417.herokuapp.com/)
 
 ### Key Terms
