@@ -58,7 +58,7 @@ Allowing us to host our website server using node.js and display our information
 <img src="img/herokuworld.PNG" alt="hworld" style="width:100%">
 
 ##### Navigation Bar (Scroll to use)
-<img src="img/herokunav.PNG" alt="hnav" style="width:100%">
+<img src="img/herokunav.png" alt="hnav" style="width:100%">
 
 ##### US Covid Cases
 <img src="img/usheroku.PNG" alt="hworld" style="width:100%">
