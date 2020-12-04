@@ -45,8 +45,9 @@ The Visuals available in PowerBI,(I.E. Bar Graphs, Tables, Gantt charts), serve 
 <p>PowerBI offers a platform for individuals to share reports by allowing the user to create a shared workspace. Through these shared workspaces, users, collaborators, and members can manage the published reports. For this specific project, out team utilized the embedded approach to sharing our content. Once the visuals are created in the PowerBI Desktop Applicaiton, the next step is to publish to our team's workspace. From there we utilized the embedded report option. This option allows for the creation of iframe code that we use to directly place into our node.js project hosted on heroku. Here is an example of the embedded code created through PowerBI: </p>
 <p align = "Center"><iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZWRjZGE0ZTEtMTc3ZC00Zjg3LTk2MzUtNTUxMWI1NzY2NTNhIiwidCI6ImIyNGVlN2JjLTZhNGEtNGU0Ny1hYmM3LTcyMDdjMDAzYTdkMyJ9" frameborder="0" allowFullScreen="true"></iframe></p>
 <h4 align = "center">PowerBI - Data Refresh</h4>
-<p></p>
 
+<p>In order to keep the reports refreshed on the PowerBI side, our team utilized the inherenet refresh property of PowerBI's published datasets/reports. This property allowed for the scheduling of a periodic refresh that pings our ClearDB database to send the refreshed data to our PowerBI workspace. From there PowerBI replaces the stored data from the previous refresh with the new and updates our existing visuals with the new rows of data. See below for a snap shot of the scheduled refresh settings through Power BI.</p>
+<img src="img/ScheduledRefresh.png" alt="Covid US" style="width: 100%;">
 ### Heroku 
 #### What is Heroku?
 Heroku is cloud platform service allowing you to host web applications with multiple different programming language options.
