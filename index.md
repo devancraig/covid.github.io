@@ -49,7 +49,7 @@ The Visuals available in PowerBI,(I.E. Bar Graphs, Tables, Gantt charts), serve 
 
 ### Heroku 
 #### What is Heroku?
-Heroku is cloud platform service allowing you to host multiple different programming languages.
+Heroku is cloud platform service allowing you to host web applications with multiple different programming language options.
 
 Allowing us to host our website server using node.js and display our information in html/css.
 
