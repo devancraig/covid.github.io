@@ -42,8 +42,8 @@ The Visuals available in PowerBI,(I.E. Bar Graphs, Tables, Gantt charts), serve 
 </p>
 <h4 align = "center">PowerBI - Published Reports</h4>
 <img src="img/Screen Shot 2020-11-19 at 6.20.37 PM.png" alt="Covid US" style="width: 100%;">
-
-<p></p>
+<p>PowerBI offers a platform for individuals to share reports by allowing the user to create a shared workspace. Through these shared workspaces, users, collaborators, and members can manage the published reports. For this specific project, out team utilized the embedded approach to sharing our content. Once the visuals are created in the PowerBI Desktop Applicaiton, the next step is to publish to our team's workspace. From there we utilized the embedded report option. This option allows for the creation of iframe code that we use to directly place into our node.js project hosted on heroku. Here is an example of the embedded code created through PowerBI: </p>
+<p align = "Center"><iframe width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZWRjZGE0ZTEtMTc3ZC00Zjg3LTk2MzUtNTUxMWI1NzY2NTNhIiwidCI6ImIyNGVlN2JjLTZhNGEtNGU0Ny1hYmM3LTcyMDdjMDAzYTdkMyJ9" frameborder="0" allowFullScreen="true"></iframe></p>
 <h4 align = "center">PowerBI - Data Refresh</h4>
 <p></p>
 
